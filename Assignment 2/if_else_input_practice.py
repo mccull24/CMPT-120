@@ -9,5 +9,6 @@
 
 #additional instructions: instead of setting our variable to 10, what if we asked the user for the variable and used that value in our comparisons?
 def main():
+  print("yer mam")
 
 main()
